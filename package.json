@@ -1,0 +1,1 @@
+{"name":"pintando-biblia-v3-conversao-mp","version":"3.0.0","scripts":{"dev":"netlify dev"},"dependencies":{"archiver":"^7.0.1"}}
