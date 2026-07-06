@@ -8,7 +8,7 @@ const LIVROS = [
     titulo: "A Luz do Mundo",
     subtitulo: "A História de Jesus, o Filho de Deus",
     arquivo: "ebook-jesus.pdf",
-    preco: 9.90,
+    preco: 1.90,
     ativo: true
   },
   {
@@ -16,7 +16,7 @@ const LIVROS = [
     titulo: "Adão e Eva",
     subtitulo: "No Jardim do Éden",
     arquivo: "ebook-adao.pdf",
-    preco: 9.90,
+    preco: 1.90,
     ativo: true
   },
   {
@@ -24,12 +24,12 @@ const LIVROS = [
     titulo: "José",
     subtitulo: "O Sonho de um Governador",
     arquivo: "ebook-jose.pdf",
-    preco: 9.90,
+    preco: 1.90,
     ativo: true
   },
-  { id: "moises", titulo: "Moisés", subtitulo: "O menino salvo das águas", arquivo: "ebook-moises.pdf", preco: 9.90, ativo: false },
+  { id: "moises", titulo: "Moisés", subtitulo: "O menino salvo das águas", arquivo: "ebook-moises.pdf", preco: 1.90, ativo: false },
   { id: "noe", titulo: "Noé", subtitulo: "A arca da salvação", arquivo: "ebook-noe.pdf", preco: 9.90, ativo: false },
-  { id: "davi", titulo: "Davi", subtitulo: "O pequeno pastor corajoso", arquivo: "ebook-davi.pdf", preco: 9.90, ativo: false },
+  { id: "davi", titulo: "Davi", subtitulo: "O pequeno pastor corajoso", arquivo: "ebook-davi.pdf", preco: 1.90, ativo: false },
   { id: "daniel", titulo: "Daniel", subtitulo: "Na cova dos leões", arquivo: "ebook-daniel.pdf", preco: 9.90, ativo: false },
   { id: "jonas", titulo: "Jonas", subtitulo: "A grande missão", arquivo: "ebook-jonas.pdf", preco: 9.90, ativo: false },
   { id: "ester", titulo: "Ester", subtitulo: "Coragem para salvar seu povo", arquivo: "ebook-ester.pdf", preco: 9.90, ativo: false },
@@ -39,7 +39,7 @@ const LIVROS = [
 const COMBO = {
   id: "combo",
   titulo: "Coleção Pintando a Bíblia",
-  preco: 14.90,
+  preco: 2.90,
   ativo: true
 };
 
