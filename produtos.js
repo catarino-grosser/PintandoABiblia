@@ -12,4 +12,4 @@ const LIVROS=[
 {id:"ester",titulo:"Ester",subtitulo:"Coragem para salvar seu povo",descricao:"Espaço preparado para um futuro livro da coleção.",capa:"placeholder-livro.png",arquivo:"ebook-ester.pdf",preco:9.90,paginas:0,categoria:"Em breve",destaque:false,ativo:false},
 {id:"samuel",titulo:"Samuel",subtitulo:"O menino que ouviu Deus",descricao:"Espaço preparado para um futuro livro da coleção.",capa:"placeholder-livro.png",arquivo:"ebook-samuel.pdf",preco:9.90,paginas:0,categoria:"Em breve",destaque:false,ativo:false}
 ];
-const COMBO={id:"combo",titulo:"Coleção Pintando a Bíblia",subtitulo:"3 e-books bíblicos infantis para ler, colorir e imprimir",descricao:"Receba os livros A Luz do Mundo, Adão e Eva e José em uma única compra. Uma coleção cristã infantil para momentos de leitura, fé e criatividade.",preco:14.90};
+const COMBO={id:"combo",titulo:"Coleção Pintando a Bíblia",subtitulo:"3 e-books bíblicos infantis para ler, colorir e imprimir",descricao:"Receba os livros A Luz do Mundo, Adão e Eva e José em uma única compra. Uma coleção cristã infantil para momentos de leitura, fé e criatividade.",preco:2.90};
