@@ -27,7 +27,7 @@ const LIVROS = [
     preco: 1.90,
     ativo: true
   },
-  { id: "moises", titulo: "Moisés", subtitulo: "O menino salvo das águas", arquivo: "ebook-moises.pdf", preco: 1.90, ativo: false },
+  { id: "moises", titulo: "Moisés", subtitulo: "O libertador do povo de deus", arquivo: "ebook-moises.pdf", preco: 1.90, ativo: true },
   { id: "noe", titulo: "Noé", subtitulo: "A arca da salvação", arquivo: "ebook-noe.pdf", preco: 9.90, ativo: false },
   { id: "davi", titulo: "Davi", subtitulo: "O pequeno pastor corajoso", arquivo: "ebook-davi.pdf", preco: 1.90, ativo: false },
   { id: "daniel", titulo: "Daniel", subtitulo: "Na cova dos leões", arquivo: "ebook-daniel.pdf", preco: 9.90, ativo: false },
